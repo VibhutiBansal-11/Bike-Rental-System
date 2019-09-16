@@ -1,0 +1,6 @@
+The different types of bike we have are:
+	Yamaha YZF R15
+	Royal Enfield Classic
+	Bajaj Pulsar 220 F 2018
+	Suzuki Intruder
+	TVS Apache RTR
